@@ -1,0 +1,15 @@
+/home/alexander/MeuApp/bin/Debug/net6.0/MeuApp
+/home/alexander/MeuApp/bin/Debug/net6.0/MeuApp.deps.json
+/home/alexander/MeuApp/bin/Debug/net6.0/MeuApp.runtimeconfig.json
+/home/alexander/MeuApp/bin/Debug/net6.0/MeuApp.dll
+/home/alexander/MeuApp/bin/Debug/net6.0/MeuApp.pdb
+/home/alexander/MeuApp/obj/Debug/net6.0/MeuApp.csproj.AssemblyReference.cache
+/home/alexander/MeuApp/obj/Debug/net6.0/MeuApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/alexander/MeuApp/obj/Debug/net6.0/MeuApp.AssemblyInfoInputs.cache
+/home/alexander/MeuApp/obj/Debug/net6.0/MeuApp.AssemblyInfo.cs
+/home/alexander/MeuApp/obj/Debug/net6.0/MeuApp.csproj.CoreCompileInputs.cache
+/home/alexander/MeuApp/obj/Debug/net6.0/MeuApp.dll
+/home/alexander/MeuApp/obj/Debug/net6.0/refint/MeuApp.dll
+/home/alexander/MeuApp/obj/Debug/net6.0/MeuApp.pdb
+/home/alexander/MeuApp/obj/Debug/net6.0/MeuApp.genruntimeconfig.cache
+/home/alexander/MeuApp/obj/Debug/net6.0/ref/MeuApp.dll
